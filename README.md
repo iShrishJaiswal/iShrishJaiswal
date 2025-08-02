@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrish Jaiswal</h1>
 <h3 align="center">Software Engineer & Data Scientist</h3>
 
-<img align="left" height="150" width="200" margin-right:"150" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
+<img align="left" height="150" width="200" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
 
 - 🔭 I’m currently working on **F1 Pitwall ChatBot**
 

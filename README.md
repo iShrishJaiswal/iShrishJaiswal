@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shrish Jaiswal</h1>
 <h3 align="center">Software Engineer & Data Scientist</h3>
 
-<img align="left" height="150" width="200" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
-<br clear="both">
+- 🎓 I graduated from **The University of Waterloo**, major in **Computational Maths**, with minors in **Statistics, and Computing**
 
-- 🔭 I’m currently working on **F1 Pitwall ChatBot**
+- 🔭 I’m currently working on **F1 Pitwall ChatBot** (Telemetry based LLM Chatbot for F1 nerds and journalists)
 
-- 🌱 I’m currently learning **LLMs**
+- 🌱 I’m currently learning **LLMs, and RAG models**
 
-- 💬 Ask me about **React, Python, ML**
+- 💬 Ask me about **React, Python, ML, Web**
 
 - 📫 How to reach me **s6jaiswa@uwaterloo.ca**
 
